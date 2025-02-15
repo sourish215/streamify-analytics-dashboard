@@ -2,6 +2,8 @@
 
 A React-based analytics dashboard for a fictional music streaming service. This project demonstrates data visualization and interactive UI components for monitoring key performance metrics.
 
+## Live Deployment: https://streamify-analytics-dashboard-five.vercel.app/
+
 ## Features
 
 - Key metrics display (users, streams, revenue)
