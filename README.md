@@ -4,7 +4,8 @@ A React-based analytics dashboard for a fictional music streaming service. This 
 
 ## Live Deployment:
 
-You can access the live deployment of the project [here](https://streamify-analytics-dashboard-five.vercel.app/){:target="\_blank"}.
+You can access the live deployment of the project:
+<a href="https://streamify-analytics-dashboard-five.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
 
 ## Features
 
