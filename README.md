@@ -14,9 +14,12 @@ A React-based analytics dashboard for a fictional music streaming service. This 
 ### Prerequisites
 
 - Node.js (v14 or later)
-- npm or yarn
+- pnpm (preferred package manager)
 
 ### Installation
 
 1. Clone the repository
-2. Install dependencies:
+2. Install dependencies using pnpm:
+   ```sh
+   pnpm install
+   ```
